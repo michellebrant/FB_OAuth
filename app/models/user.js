@@ -22,4 +22,4 @@ userSchema.methods.validPassword = function(password){
 }
 
 module.exports = mongoose.model('User', userSchema);
-Contact GitHub API Training Shop Blog About
+
